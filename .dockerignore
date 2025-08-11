@@ -1,0 +1,9 @@
+# .dockerignore
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+.DS_Store
+nohup.out
+db.sqlite3

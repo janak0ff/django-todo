@@ -1,0 +1,367 @@
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+Error: That port is already in use.
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+Error: That port is already in use.
+[04/Aug/2025 17:38:58] "GET /todos/ HTTP/1.1" 200 4696
+[04/Aug/2025 17:38:58] "GET /static/css/style.css HTTP/1.1" 404 179
+[04/Aug/2025 19:08:22] "GET / HTTP/1.1" 302 0
+[04/Aug/2025 19:08:22] "GET /todos HTTP/1.1" 301 0
+[04/Aug/2025 19:08:22] "GET /todos/ HTTP/1.1" 200 4696
+[04/Aug/2025 19:10:50] "GET / HTTP/1.1" 302 0
+[04/Aug/2025 19:13:09] code 400, message Bad request version ('À\x14À')
+[04/Aug/2025 19:13:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Aug/2025 19:15:39] code 400, message Bad request syntax ('SSH-2.0-Go')
+[04/Aug/2025 19:15:39] "SSH-2.0-Go" 400 -
+[04/Aug/2025 19:16:20] code 400, message Bad request version ('À\x14À')
+[04/Aug/2025 19:16:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Aug/2025 02:24:45] "GET / HTTP/1.1" 302 0
+[05/Aug/2025 02:24:45] "GET /todos HTTP/1.1" 301 0
+[05/Aug/2025 02:24:45] "GET /todos/ HTTP/1.1" 200 4696
+[05/Aug/2025 05:51:26] "GET / HTTP/1.1" 302 0
+[05/Aug/2025 05:51:27] "GET /todos HTTP/1.1" 301 0
+[05/Aug/2025 05:51:27] "GET /todos/ HTTP/1.1" 200 4696
+[05/Aug/2025 05:51:28] "GET /todos/favicon.ico HTTP/1.1" 404 179
+[05/Aug/2025 10:56:59] "GET / HTTP/1.1" 302 0
+[05/Aug/2025 18:17:44] code 400, message Bad request syntax ('MGLNDD_44.202.47.32_8000')
+[05/Aug/2025 18:17:44] "MGLNDD_44.202.47.32_8000" 400 -
+[05/Aug/2025 20:38:11] "GET / HTTP/1.1" 302 0
+[05/Aug/2025 20:38:11] "GET /todos HTTP/1.1" 301 0
+[05/Aug/2025 20:38:11] "GET /todos/ HTTP/1.1" 200 4696
+[05/Aug/2025 20:40:16] "GET / HTTP/1.1" 302 0
+[05/Aug/2025 20:42:02] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ö±¤\x1bv\x14Â®rè\x91\x19Ä¡\x90)à·Á\x15EÜ¹\x15¬ý\x19ÍèisU\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[05/Aug/2025 20:42:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Aug/2025 20:44:04] code 400, message Bad request syntax ('SSH-2.0-Go')
+[05/Aug/2025 20:44:04] "SSH-2.0-Go" 400 -
+[05/Aug/2025 20:44:55] code 400, message Bad request version ('À\x14À')
+[05/Aug/2025 20:44:55] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Aug/2025 23:37:30] code 400, message Bad request version ('À\x13À')
+[05/Aug/2025 23:37:30] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Aug/2025 23:37:30] code 400, message Bad request version ('À(À$À\x14À')
+[05/Aug/2025 23:37:30] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Aug/2025 03:07:13] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x01¥\x01\x00\x01¡\x03\x03,')
+[06/Aug/2025 03:07:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Aug/2025 03:07:17] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 03:20:15] "GET /todos HTTP/1.1" 301 0
+[06/Aug/2025 03:21:36] "GET /favicon.ico HTTP/1.1" 404 179
+[06/Aug/2025 03:28:12] "GET /todos/ HTTP/1.1" 200 4696
+[06/Aug/2025 03:35:08] "GET /favicon.ico HTTP/1.1" 404 179
+[06/Aug/2025 03:42:07] "GET /favicon.ico HTTP/1.1" 404 179
+[06/Aug/2025 04:18:02] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03d\x05Í¼<}X\x96»ÍCm§#Ø\x06¬\x06Ü?jçë\x81=\x93:v\x1bd9%\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[06/Aug/2025 04:18:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Aug/2025 04:18:02] code 400, message Bad request syntax ('MGLNDD_44.202.47.32_8000')
+[06/Aug/2025 04:18:02] "MGLNDD_44.202.47.32_8000" 400 -
+[06/Aug/2025 07:36:24] code 400, message Bad request version ('À#À¬À®À+À')
+[06/Aug/2025 07:36:24] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Aug/2025 07:36:28] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 07:46:22] code 400, message Bad request version ('À\x14À')
+[06/Aug/2025 07:46:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Aug/2025 07:46:22] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¡\x99ÿEÎè}ÌÓË\x0fGã·Þ\x91yûýqÝWÍ_Úæ]\x10P\x9b´=\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[06/Aug/2025 07:46:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Aug/2025 07:46:23] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 07:46:23] "GET /todos HTTP/1.1" 301 0
+[06/Aug/2025 07:46:24] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03?½$~c\x13\x05Ày\x9c_Ä[fø=N\x8cVÉc\x02ICcû\x8d\x8bí\x12ðæ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[06/Aug/2025 07:46:24] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Aug/2025 07:46:24] "GET /login HTTP/1.1" 404 179
+[06/Aug/2025 07:49:52] "GET /favicon.ico HTTP/1.1" 404 179
+[06/Aug/2025 07:49:57] "GET /todos HTTP/1.1" 301 0
+[06/Aug/2025 07:56:43] "GET /todos/ HTTP/1.1" 200 4696
+[06/Aug/2025 07:57:34] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 07:57:37,083] - Broken pipe from ('47.251.72.36', 40540)
+[06/Aug/2025 07:57:55] "GET /favicon.ico HTTP/1.1" 404 179
+[06/Aug/2025 07:58:19] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 07:58:19] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 07:58:20] "GET /todos HTTP/1.1" 301 0
+[06/Aug/2025 07:58:21] "GET /todos/ HTTP/1.1" 200 4696
+[06/Aug/2025 07:58:26] "GET /favicon.ico HTTP/1.1" 404 179
+[06/Aug/2025 08:09:21] "GET /favicon.ico HTTP/1.1" 404 179
+[06/Aug/2025 08:58:30] code 400, message Bad request version ("\x1b¹}8\x02Èª@ð]Ð~$1c§/§)0>\x08$üxç½¯p4à\x07\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+[06/Aug/2025 08:58:30] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Aug/2025 08:58:30] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 08:58:33] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 08:58:37] "GET /todos HTTP/1.1" 301 0
+[06/Aug/2025 13:39:50] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 15:20:12] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 15:20:13] code 400, message Bad request version ('À\x13À')
+[06/Aug/2025 15:20:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Aug/2025 15:20:13] code 400, message Bad HTTP/0.9 request type ('t3')
+[06/Aug/2025 15:20:13] "t3 12.1.2" 400 -
+[06/Aug/2025 15:20:31] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 15:20:31] "GET /favicon.ico HTTP/1.1" 404 179
+[06/Aug/2025 15:20:31] "GET /todos/sitemap.xml HTTP/1.1" 404 179
+[06/Aug/2025 15:20:31] "GET /todos/robots.txt HTTP/1.1" 404 179
+[06/Aug/2025 15:20:33] "GET /todos HTTP/1.1" 301 0
+[06/Aug/2025 15:20:33] "GET /favicon.ico HTTP/1.1" 404 179
+[06/Aug/2025 15:20:33] "GET /todos/sitemap.xml HTTP/1.1" 404 179
+[06/Aug/2025 15:20:33] "GET /todos/robots.txt HTTP/1.1" 404 179
+[06/Aug/2025 15:20:35] "GET /todos/ HTTP/1.1" 200 4696
+[06/Aug/2025 15:20:35] "GET /favicon.ico HTTP/1.1" 404 179
+[06/Aug/2025 15:20:35] "GET /todos/sitemap.xml HTTP/1.1" 404 179
+[06/Aug/2025 15:20:35] "GET /todos/robots.txt HTTP/1.1" 404 179
+[06/Aug/2025 19:36:24] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 19:36:45] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 19:36:45] "GET /todos HTTP/1.1" 301 0
+[06/Aug/2025 19:36:46] "GET /todos/ HTTP/1.1" 200 4696
+[06/Aug/2025 19:36:47] "GET /favicon.ico HTTP/1.1" 404 179
+[06/Aug/2025 22:27:53] "GET /robots.txt HTTP/1.1" 404 179
+[06/Aug/2025 22:27:53] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 22:27:53] "GET /todos HTTP/1.1" 301 0
+[06/Aug/2025 22:27:53] "GET /todos/ HTTP/1.1" 200 4696
+[06/Aug/2025 22:27:59] "GET /todos/23/delete HTTP/1.1" 302 0
+[06/Aug/2025 22:27:59] "GET /todos/ HTTP/1.1" 200 4097
+[06/Aug/2025 22:28:04] "GET /todos/2/delete HTTP/1.1" 302 0
+[06/Aug/2025 22:28:04] "GET /todos/ HTTP/1.1" 200 3505
+[06/Aug/2025 22:28:08] "GET /static/css/style.css HTTP/1.1" 404 179
+[06/Aug/2025 22:28:11] "GET /todos/22/delete HTTP/1.1" 302 0
+[06/Aug/2025 22:28:11] "GET /todos/ HTTP/1.1" 200 2923
+[06/Aug/2025 22:28:14] "GET /todos/3/delete HTTP/1.1" 302 0
+[06/Aug/2025 22:28:14] "GET /todos/ HTTP/1.1" 200 2328
+[06/Aug/2025 23:17:51] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 23:17:51] "GET /todos HTTP/1.1" 301 0
+[06/Aug/2025 23:17:51] "GET /todos/ HTTP/1.1" 200 2328
+[06/Aug/2025 23:19:52] "GET / HTTP/1.1" 302 0
+[06/Aug/2025 23:20:47] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00{\x01\x00\x00w\x03\x03AÂ'r®jPÓîx¡¥¯¨ÃUðúò\x89éjÚ\x10oÙ¢3\\§E\x01\x00\x00\x1aÀ/À+À\x11À\x07À\x13À")
+[06/Aug/2025 23:20:47] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Aug/2025 23:22:48] code 400, message Bad request syntax ('SSH-2.0-Go')
+[06/Aug/2025 23:22:48] "SSH-2.0-Go" 400 -
+[06/Aug/2025 23:23:18] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x08ÍGB¸')
+[06/Aug/2025 23:23:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 00:25:32] code 400, message Bad request version ('À\x13À')
+[07/Aug/2025 00:25:32] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 00:25:33] code 400, message Bad request version ('À(À$À\x14À')
+[07/Aug/2025 00:25:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 03:01:57] "GET /1Gjz HTTP/1.1" 404 179
+[07/Aug/2025 03:01:57] "GET /cSn9 HTTP/1.1" 404 179
+[07/Aug/2025 03:01:58] "GET stager HTTP/1.1" 404 179
+[07/Aug/2025 03:01:58] "GET stager64 HTTP/1.1" 404 179
+[07/Aug/2025 03:07:11] code 400, message Bad request syntax ('MGLNDD_44.202.47.32_8000')
+[07/Aug/2025 03:07:11] "MGLNDD_44.202.47.32_8000" 400 -
+[07/Aug/2025 04:50:12] code 400, message Bad request version ('À\x14À')
+[07/Aug/2025 04:50:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 04:50:12] code 400, message Bad request version ('rh5ÇTvÞî')
+[07/Aug/2025 04:50:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 04:50:12] "GET / HTTP/1.1" 302 0
+[07/Aug/2025 04:50:12] "GET /todos HTTP/1.1" 301 0
+[07/Aug/2025 04:50:12] code 400, message Bad request version ('À\x14À')
+[07/Aug/2025 04:50:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 04:50:12] "GET /login HTTP/1.1" 404 179
+[07/Aug/2025 07:06:45] "GET / HTTP/1.1" 302 0
+[07/Aug/2025 07:06:45] "GET /todos HTTP/1.1" 301 0
+[07/Aug/2025 07:06:45] "GET /todos/ HTTP/1.1" 200 2328
+[07/Aug/2025 09:19:37] code 400, message Bad request version ('\xad\x14\x9a"l¹1\x87`<³\x93m\x15zÓBÕ')
+[07/Aug/2025 09:19:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 09:19:37] code 400, message Bad request version ('À\x13À')
+[07/Aug/2025 09:19:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 09:19:37] code 400, message Bad request version ('9!di1Ù\x8c')
+[07/Aug/2025 09:19:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 09:19:37] code 400, message Bad request version ('À\x13À')
+[07/Aug/2025 09:19:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 10:55:21] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03<T3\x99²flµ\x04')
+[07/Aug/2025 10:55:21] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 10:55:21] code 400, message Bad request syntax ('MGLNDD_44.202.47.32_8000')
+[07/Aug/2025 10:55:21] "MGLNDD_44.202.47.32_8000" 400 -
+[07/Aug/2025 11:16:59] code 400, message Bad HTTP/0.9 request type ('Z¥\x01')
+[07/Aug/2025 11:16:59] "Z¥     " 400 -
+[07/Aug/2025 13:25:44] code 400, message Bad request version ('À\x13À')
+[07/Aug/2025 13:25:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Aug/2025 13:25:46] "GET / HTTP/1.1" 302 0
+[07/Aug/2025 13:25:47] "GET /todos HTTP/1.1" 301 0
+[07/Aug/2025 13:25:48] "GET /todos/ HTTP/1.1" 200 2328
+[07/Aug/2025 17:54:01] "GET / HTTP/1.1" 302 0
+[07/Aug/2025 17:54:21] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 179
+[07/Aug/2025 17:54:24] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 179
+[07/Aug/2025 18:58:32] "GET /Qii9 HTTP/1.1" 404 179
+[07/Aug/2025 18:58:33] "GET /4ppI HTTP/1.1" 404 179
+[07/Aug/2025 18:58:33] "GET /aab8 HTTP/1.1" 404 179
+[07/Aug/2025 18:58:33] "GET /jquery-3.3.1.slim.min.js HTTP/1.1" 404 179
+[07/Aug/2025 18:58:33] "GET /aab9 HTTP/1.1" 404 179
+[07/Aug/2025 18:58:35] "GET /jquery-3.3.2.slim.min.js HTTP/1.1" 404 179
+[07/Aug/2025 20:13:13] code 400, message Bad request syntax ('JDWP-Handshake')
+[07/Aug/2025 20:13:13] "JDWP-Handshake" 400 -
+[07/Aug/2025 21:38:41] code 400, message Bad request version ('À\x14À')
+[07/Aug/2025 21:38:41] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 00:36:26] "GET / HTTP/1.1" 302 0
+[08/Aug/2025 00:36:26] "GET /todos HTTP/1.1" 301 0
+[08/Aug/2025 00:36:27] "GET /todos/ HTTP/1.1" 200 2328
+[08/Aug/2025 00:36:27] "GET /todos/favicon.ico HTTP/1.1" 404 179
+[08/Aug/2025 00:45:41] "GET / HTTP/1.1" 302 0
+[08/Aug/2025 00:45:41] "GET /todos HTTP/1.1" 301 0
+[08/Aug/2025 00:45:41] "GET /todos/ HTTP/1.1" 200 2328
+[08/Aug/2025 00:48:21] "GET / HTTP/1.1" 302 0
+[08/Aug/2025 00:50:23] code 400, message Bad request version ('À\x14À')
+[08/Aug/2025 00:50:23] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 00:52:16] code 400, message Bad request syntax ('SSH-2.0-Go')
+[08/Aug/2025 00:52:16] "SSH-2.0-Go" 400 -
+[08/Aug/2025 00:53:01] code 400, message Bad request version ('À\x14À')
+[08/Aug/2025 00:53:01] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 01:01:36] code 400, message Bad request syntax ('MGLNDD_44.202.47.32_8000')
+[08/Aug/2025 01:01:36] "MGLNDD_44.202.47.32_8000" 400 -
+[08/Aug/2025 05:33:19] code 400, message Bad request syntax ('\x12\x01\x00&\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00ÿ')
+[08/Aug/2025 05:33:19] " &                          ÿ" 400 -
+[08/Aug/2025 05:33:21] code 400, message Bad request version ('44.202.47.32')
+[08/Aug/2025 05:33:21] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 05:33:22] "GET / HTTP/1.1" 302 0
+[08/Aug/2025 05:33:22] code 400, message Bad request syntax ('SSH-2.0-WanScannerBot')
+[08/Aug/2025 05:33:22] "SSH-2.0-WanScannerBot" 400 -
+[08/Aug/2025 05:33:23] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00&!à\x00\x00þÊ\x00Cookie:')
+[08/Aug/2025 05:33:23] "  &!à  þÊ Cookie: mstshash=" 400 -
+[08/Aug/2025 05:33:24] code 400, message Bad request syntax ('\x10\x0f\x00\x04MQTT\x04\x00\x00')
+[08/Aug/2025 05:33:24] " MQTT  " 400 -
+[08/Aug/2025 05:33:27] code 400, message Bad HTTP/0.9 request type ('AMQP\x00\x00')
+[08/Aug/2025 05:33:27] "AMQP  	" 400 -
+[08/Aug/2025 05:33:29] code 400, message Bad request syntax ('\x00\x00\x00%ÿSMBr\x00\x00\x00\x00\x18\x01(\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00')
+[08/Aug/2025 05:33:29] "   %ÿSMBr    (                        " 400 -
+[08/Aug/2025 05:33:30] code 400, message Bad request version ('RTSP/1.0')
+[08/Aug/2025 05:33:30] "OPTIONS / RTSP/1.0" 400 -
+[08/Aug/2025 05:33:33] code 400, message Bad request syntax ('\x00\x00\x00\x08\x04Ò\x16/')
+[08/Aug/2025 05:33:33] "   Ò/" 400 -
+[08/Aug/2025 05:33:33] code 400, message Bad request syntax ('\x01\x00\x00\x00')
+[08/Aug/2025 05:33:33] "   " 400 -
+[08/Aug/2025 05:33:34] "GET / HTTP/1.1" 302 0
+[08/Aug/2025 16:56:54] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03Êb¶Ò\x16E\x9bÞ\x08vªO\x87;C\x18Ã´ûå¼üÁäiÏ=5\x10+Íö')
+[08/Aug/2025 16:56:54] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 21:00:56] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¶R\x92iÂ5\x86')
+[08/Aug/2025 21:00:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 21:00:56] code 400, message Bad request syntax ('MGLNDD_44.202.47.32_8000')
+[08/Aug/2025 21:00:56] "MGLNDD_44.202.47.32_8000" 400 -
+[08/Aug/2025 21:54:52] "GET / HTTP/1.1" 302 0
+[08/Aug/2025 21:54:52] "GET /todos HTTP/1.1" 301 0
+[08/Aug/2025 21:54:52] "GET /todos/ HTTP/1.1" 200 2328
+[08/Aug/2025 21:56:43] "GET / HTTP/1.1" 302 0
+[08/Aug/2025 21:59:20] code 400, message Bad request version ('À\x14À')
+[08/Aug/2025 21:59:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 23:07:04] "GET / HTTP/1.1" 302 0
+[08/Aug/2025 23:07:04] "GET / HTTP/1.1" 302 0
+[08/Aug/2025 23:07:04] "GET /todos HTTP/1.1" 301 0
+[08/Aug/2025 23:07:09] "GET /todos/ HTTP/1.1" 200 2328
+[08/Aug/2025 23:09:54] code 400, message Bad request version ('À\x14À')
+[08/Aug/2025 23:09:54] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 23:12:17] code 400, message Bad request version ('À\x14À')
+[08/Aug/2025 23:12:17] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 23:12:27] code 400, message Bad request syntax ('SSH-2.0-Go')
+[08/Aug/2025 23:12:27] "SSH-2.0-Go" 400 -
+[08/Aug/2025 23:37:46] code 400, message Bad request version ('À\x14À')
+[08/Aug/2025 23:37:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 23:37:46] code 400, message Bad request version ('À\x14À')
+[08/Aug/2025 23:37:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 23:37:46] "GET / HTTP/1.1" 302 0
+[08/Aug/2025 23:37:46] "GET /todos HTTP/1.1" 301 0
+[08/Aug/2025 23:37:46] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x96x|q\x89\x83½\x92X}¼Ã\x9bý`0`BàïýMÀ\x9e\x00Ê'ñ`·\x9dî\x00\x00\x1aÀ/À+À\x11À\x07À\x13À")
+[08/Aug/2025 23:37:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Aug/2025 23:37:46] "GET /login HTTP/1.1" 404 179
+[09/Aug/2025 01:12:11] code 400, message Bad request syntax ('\x01\x01æ')
+[09/Aug/2025 01:12:11] "æ" 400 -
+[09/Aug/2025 03:39:51] code 400, message Bad request version ('À\x13À')
+[09/Aug/2025 03:39:51] You're accessing the development server over HTTPS, but it only supports HTTP.
+[09/Aug/2025 03:39:51] code 400, message Bad request version ('À\x13À')
+[09/Aug/2025 03:39:51] You're accessing the development server over HTTPS, but it only supports HTTP.
+[09/Aug/2025 03:39:51] code 400, message Bad request version ('À\x13À')
+[09/Aug/2025 03:39:51] You're accessing the development server over HTTPS, but it only supports HTTP.
+[09/Aug/2025 03:39:51] code 400, message Bad request version ('ÿ:Ê\x06®LÜ\x02Ú¦0÷')
+[09/Aug/2025 03:39:51] You're accessing the development server over HTTPS, but it only supports HTTP.
+[09/Aug/2025 08:18:04] "GET / HTTP/1.1" 302 0
+[09/Aug/2025 08:18:10] "GET / HTTP/1.1" 302 0
+[09/Aug/2025 08:18:10] "GET /todos HTTP/1.1" 301 0
+[09/Aug/2025 08:18:11] "GET /todos/ HTTP/1.1" 200 2328
+[09/Aug/2025 08:18:21] "GET /favicon.ico HTTP/1.1" 404 179
+[09/Aug/2025 08:18:26] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 179
+[09/Aug/2025 08:18:29] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 179
+[09/Aug/2025 09:22:01] code 400, message Bad request syntax ('MGLNDD_44.202.47.32_8000')
+[09/Aug/2025 09:22:01] "MGLNDD_44.202.47.32_8000" 400 -
+[09/Aug/2025 17:19:06] code 400, message Bad request version ('À\x14À')
+[09/Aug/2025 17:19:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[09/Aug/2025 18:56:11] "GET / HTTP/1.1" 302 0
+[09/Aug/2025 18:56:11] "GET /todos HTTP/1.1" 301 0
+[09/Aug/2025 18:56:12] "GET /todos/ HTTP/1.1" 200 2328
+[09/Aug/2025 18:56:13] "GET /favicon.ico HTTP/1.1" 404 179
+[09/Aug/2025 20:25:48] code 400, message Bad request version ('À\x14À')
+[09/Aug/2025 20:25:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+[09/Aug/2025 20:25:48] code 400, message Bad request version ('À\x14À')
+[09/Aug/2025 20:25:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+[09/Aug/2025 20:25:49] "GET / HTTP/1.1" 302 0
+[09/Aug/2025 20:25:49] "GET /todos HTTP/1.1" 301 0
+[09/Aug/2025 20:25:50] code 400, message Bad request version ('À\x14À')
+[09/Aug/2025 20:25:50] You're accessing the development server over HTTPS, but it only supports HTTP.
+[09/Aug/2025 20:25:51] "GET /login HTTP/1.1" 404 179
+[10/Aug/2025 00:22:51] "GET / HTTP/1.1" 302 0
+[10/Aug/2025 01:17:15] "GET /robots.txt HTTP/1.1" 404 179
+[10/Aug/2025 01:17:16] "GET / HTTP/1.1" 302 0
+[10/Aug/2025 01:17:17] "GET /todos HTTP/1.1" 301 0
+[10/Aug/2025 01:17:17] "GET /todos/ HTTP/1.1" 200 2328
+[10/Aug/2025 01:17:18] "GET /static/css/style.css HTTP/1.1" 404 179
+[10/Aug/2025 01:17:19] "GET /static/css/style.css HTTP/1.1" 404 179
+[10/Aug/2025 01:17:33] "GET / HTTP/1.1" 302 0
+[10/Aug/2025 01:17:33] "GET /todos HTTP/1.1" 301 0
+[10/Aug/2025 01:17:33] "GET /todos/ HTTP/1.1" 200 2328
+[10/Aug/2025 01:17:34] "GET / HTTP/1.1" 302 0
+[10/Aug/2025 01:17:34] "GET /todos HTTP/1.1" 301 0
+[10/Aug/2025 01:17:35] "GET /todos/ HTTP/1.1" 200 2328
+[10/Aug/2025 01:17:35] "GET /static/css/style.css HTTP/1.1" 404 179
+[10/Aug/2025 01:17:36] "GET /static/css/style.css HTTP/1.1" 404 179
+[10/Aug/2025 01:17:36] "GET /static/css/style.css HTTP/1.1" 404 179
+[10/Aug/2025 01:17:37] "GET /static/css/style.css HTTP/1.1" 404 179
+[10/Aug/2025 01:17:37] "GET /favicon.ico HTTP/1.1" 404 179
+[10/Aug/2025 08:27:55] code 400, message Bad request version ('À\x14À')
+[10/Aug/2025 08:27:55] You're accessing the development server over HTTPS, but it only supports HTTP.
+[10/Aug/2025 08:27:55] code 400, message Bad request syntax ('MGLNDD_44.202.47.32_8000')
+[10/Aug/2025 08:27:55] "MGLNDD_44.202.47.32_8000" 400 -
+[10/Aug/2025 12:49:00] "GET / HTTP/1.0" 302 0
+[10/Aug/2025 13:47:53] "GET / HTTP/1.1" 302 0
+[10/Aug/2025 13:47:53] "GET /todos HTTP/1.1" 301 0
+[10/Aug/2025 13:47:53] "GET /todos/ HTTP/1.1" 200 2328
+[10/Aug/2025 13:47:53] "GET /todos/favicon.ico HTTP/1.1" 404 179
+[10/Aug/2025 16:59:27] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03Ð'Öj\x17L\x87ÆÅ\x104káÈ'ã\x88é\x92¸dú*¢õ\x16|\x95£aMÒ")
+[10/Aug/2025 16:59:27] You're accessing the development server over HTTPS, but it only supports HTTP.
+[10/Aug/2025 17:23:12] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¼'¬Pcf\x11ö<ÃépS*\x067õhü\x12j|ÂT»<LÀ\x81#A`\x00\x00\x1aÀ/À+À\x11À\x07À\x13À")
+[10/Aug/2025 17:23:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[10/Aug/2025 17:23:12] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ðÐ\x11øÍéß\x8e\x05\x0eQ\x00\x82îìµ\x99ÂéÓ³Ý\\\x9e:=^0~Ùa\x08\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[10/Aug/2025 17:23:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[10/Aug/2025 17:23:13] "GET / HTTP/1.1" 302 0
+[10/Aug/2025 17:23:13] "GET /todos HTTP/1.1" 301 0
+[10/Aug/2025 17:23:13] code 400, message Bad request version ('À\x14À')
+[10/Aug/2025 17:23:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+[10/Aug/2025 17:23:14] "GET /login HTTP/1.1" 404 179
+[10/Aug/2025 18:49:47] code 400, message Bad request syntax ('MGLNDD_44.202.47.32_8000')
+[10/Aug/2025 18:49:47] "MGLNDD_44.202.47.32_8000" 400 -
+[10/Aug/2025 22:24:42] "GET / HTTP/1.1" 302 0
+[10/Aug/2025 22:24:42] "GET /todos HTTP/1.1" 301 0
+[10/Aug/2025 22:24:42] "GET /todos/ HTTP/1.1" 200 2328
+[10/Aug/2025 22:26:29] "GET / HTTP/1.0" 302 0
+[10/Aug/2025 23:29:48] "GET / HTTP/1.1" 302 0
+[10/Aug/2025 23:29:48] "GET /todos HTTP/1.1" 301 0
+[10/Aug/2025 23:29:49] "GET /todos/ HTTP/1.1" 200 2328
+[10/Aug/2025 23:32:08] "GET / HTTP/1.1" 302 0
+[10/Aug/2025 23:34:26] code 400, message Bad request version ('À\x14À')
+[10/Aug/2025 23:34:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[10/Aug/2025 23:36:33] code 400, message Bad request syntax ('SSH-2.0-Go')
+[10/Aug/2025 23:36:33] "SSH-2.0-Go" 400 -
+[10/Aug/2025 23:38:12] code 400, message Bad request version ('À\x14À')
+[10/Aug/2025 23:38:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[11/Aug/2025 01:28:56] "GET / HTTP/1.1" 302 0
+[11/Aug/2025 01:28:56] "GET /todos HTTP/1.1" 301 0
+[11/Aug/2025 01:28:56] "GET /todos/ HTTP/1.1" 200 2328
+[11/Aug/2025 11:14:38] "GET / HTTP/1.1" 302 0
+[11/Aug/2025 11:14:49] "GET / HTTP/1.1" 302 0
+[11/Aug/2025 11:14:49] "GET /todos HTTP/1.1" 301 0
+[11/Aug/2025 11:14:50] "GET /todos/ HTTP/1.1" 200 2328
+[11/Aug/2025 11:15:04] "GET /favicon.ico HTTP/1.1" 404 179
+[11/Aug/2025 11:15:10] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 179
+[11/Aug/2025 11:15:13] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 179
